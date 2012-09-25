@@ -25,3 +25,24 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+*.pyc
+*.komodoproject
+local_settings.py
+settings.py
+*.fw
+user_uploads
+celerybeat-schedule
+_build
+*.xls
+*.csv
+.idea
+*.log
+*~
+.pdbrc
+logs/
+*.rdb
+nohup.out
+*.diff
+*.patch
+*.sql
