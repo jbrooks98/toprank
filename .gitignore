@@ -46,3 +46,4 @@ nohup.out
 *.diff
 *.patch
 *.sql
+http:/
